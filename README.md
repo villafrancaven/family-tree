@@ -25,3 +25,8 @@ json-server --watch db.json --port 3001
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+## Sample Usage
+
+https://github.com/villafrancaven/family-tree/assets/109505951/cc9f1efa-ac5c-46cf-826f-3fbf56f001e1
