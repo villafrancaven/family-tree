@@ -21,7 +21,7 @@ pnpm dev
 Then, run mock server on another terminal or server:
 **NOTE:** THIS EXACTLY NEEDS TO BE RUN
 ```bash
-json-server --watch db.json --port 3001
+npx json-server --watch db.json --port 3001
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
